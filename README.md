@@ -14,6 +14,11 @@
 ![HTML](https://img.shields.io/badge/HTML-3776AB?logo=html&logoColor=white&style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-3776AB?logo=latex&logoColor=white&style=for-the-badge)
 
+### Work experience 👔
+| Job Position                  | Company                    | Field                         | Work Period           |
+| ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
+| **Research Psychologist** | **Air Force Research Laboratory** | **Cognitive modeling**    | **2022-11 - current** |
+| Computational Modeler | Cubic Defense | Cognitive modeling | 2021-08 - 2022-11 |
 
 
 <!--
