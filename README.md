@@ -27,8 +27,8 @@
 - "Gamma power as an index of sustained attention in simulated vigilance tasks"  
   _Topics in Cognitive Science, 16_(4), 2024  
   doi:[10.1111/tops.12700](https://doi.org/10.1111/tops.12700)
-- "The role of age and anthropomorphism in perceptions of good digital teammates"
-  _PsyArXiv_, 2025
+- "The role of age and anthropomorphism in perceptions of good digital teammates"  
+  _PsyArXiv_, 2025  
   doi:[10.31234/osf.io/2b3yd_v1](https://doi.org/10.31234/osf.io/2b3yd_v1)
 - "NOCTURNAL: A virtual reality simulation exploring the effects of night vision goggle configurations and luminance conditions on human performance"  
   _Communications in Computer and Information Science_, 2025  
