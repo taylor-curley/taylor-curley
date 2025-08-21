@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Taylor Curley, a researcher with the 🇺🇸 Air Force Research Laboratory 🛩️
+
+- 🔭 I’m currently working on scientific computing and modeling projects related to human cognition
+- 👯 I’m looking to collaborate on projects related to cognitive psychology
+- 📫 How to reach me: taylor.curley "at" afrl.af.mil
 
 <!--
 **taylor-curley/taylor-curley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
