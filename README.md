@@ -1,18 +1,43 @@
 ## Hi there 👋 I'm Taylor Curley, a researcher with the 🚀 Air Force Research Laboratory 🛩️
 
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Research+Psychologist;Computational+Modeler;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+
+
 - 🌱 I’m currently learning Rust, SQL, and anything LLM 
 - 🔭 I’m currently working on scientific computing and modeling projects related to human cognition
 - 👯 I’m looking to collaborate on projects related to cognitive psychology
 - 📫 How to reach me: Email me at taylor.curley "at" afrl.af.mil
 
-## Programming Languages
+## 👨‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![R](https://img.shields.io/badge/R-3776AB?logo=r&logoColor=white&style=for-the-badge)
-![Julia](https://img.shields.io/badge/Julia-3776AB?logo=julia&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-3776AB?logo=matlab&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-3776AB?logo=html&logoColor=white&style=for-the-badge)
-![LaTeX](https://img.shields.io/badge/LaTeX-3776AB?logo=latex&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+## 💻 Frameworks and Libraries
+
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
+![](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+## 👩‍💻 Software 
+
+![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Work experience 👔
 
