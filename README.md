@@ -12,6 +12,8 @@
 - 👯 I’m looking to collaborate on projects related to cognitive psychology
 - 📫 How to reach me: Email me at taylor.curley "at" afrl.af.mil
 
+**Note**: I do not commit to public repos often due to the nature of my work. Please contact me if you have any questions regarding this.
+
 ## 👨‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
