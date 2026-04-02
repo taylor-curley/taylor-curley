@@ -51,6 +51,10 @@
 
 ## A Few Select Publications
 
+- "Conflict and control in error monitoring during sustained visual discrimination"
+  _Frontiers in Cognition, 5_ (1565885), 2026  
+  doi:[10.3389/fcogn.2026.1565885](https://doi.org/10.3389/fcogn.2026.1565885)
+
 - "Gamma power as an index of sustained attention in simulated vigilance tasks"  
   _Topics in Cognitive Science, 16_(4), 2024  
   doi:[10.1111/tops.12700](https://doi.org/10.1111/tops.12700)
