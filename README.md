@@ -51,7 +51,7 @@
 
 ## A Few Select Publications
 
-- "Conflict and control in error monitoring during sustained visual discrimination"
+- "Conflict and control in error monitoring during sustained visual discrimination"  
   _Frontiers in Cognition, 5_ (1565885), 2026  
   doi:[10.3389/fcogn.2026.1565885](https://doi.org/10.3389/fcogn.2026.1565885)
 
